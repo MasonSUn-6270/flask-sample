@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="724866fc-3dd5-4551-b4cb-a6669dae36f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="724866fc-3dd5-4551-b4cb-a6669dae36f9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582809473284</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="https://dormousehole.readthedocs.io/en/latest/tutorial/templates.html">
+      <created>1582817746003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582817746003</updated>
+    </task>
+    <task id="LOCAL-00003" summary="https://dormousehole.readthedocs.io/en/latest/tutorial/templates.html&#10;login register base">
+      <created>1582817790373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582817790373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test url_for" />
-    <option name="LAST_COMMIT_MESSAGE" value="test url_for" />
+    <MESSAGE value="https://dormousehole.readthedocs.io/en/latest/tutorial/templates.html" />
+    <MESSAGE value="https://dormousehole.readthedocs.io/en/latest/tutorial/templates.html&#10;login register base" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://dormousehole.readthedocs.io/en/latest/tutorial/templates.html&#10;login register base" />
   </component>
 </project>
